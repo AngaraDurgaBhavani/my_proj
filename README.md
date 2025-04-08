@@ -9,8 +9,8 @@ Features
     4.Medical Records: Maintain and view patient medical history.
     5.User Authentication: Secure login and access control for different user roles (admin, doctor).
 
-Technologies
+Technologies Used :
     1.Frontend: React, React Router
     2.Backend: Node.js, Express.js
     3.Database: MongoDB, Mongoose
-    4.Authentication: JWT (JSON Web Tokens), bcrypt
+    4.Authentication: JWT (JSON Web Tokens), bcrypt .
